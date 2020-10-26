@@ -14,63 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "txtResults.json"
+        "btnAddCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "btnSeeCustomers.json"
+        "lblAddMessage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "btnNextPage.json"
+        "btnPage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "inptState.json"
+        "txtAllCustomers.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerAdd",
         "Elements",
-        "txtStateResults.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerSelect",
-        "Elements",
-        "btnState.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerSelect",
-        "Elements",
-        "lblMessage.json"
+        "txtCustomers.json"
       ]
     }
   ],
@@ -80,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerSelect",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -88,7 +70,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "customerSelect.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
